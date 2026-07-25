@@ -1,0 +1,15 @@
+Shortest Path FILE
+Source City: Jerusalem
+Destination City: Hebron
+Dijkstra Result (Minimum Distance)
+Path: Jerusalem -> Hebron
+Full Route Details:
+- Jerusalem to Hebron (34 km)
+Total Minimum Cost: 34 km
+Execution Time: 0.002300 ms
+
+BFS Result (Shortest Hops)
+Path: Jerusalem -> Hebron
+Total Path Distance: 34 km
+Number of Hops: 1
+Execution Time: 0.000600 ms
